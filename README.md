@@ -10,24 +10,23 @@
 
 🌱 Currently Learning
 
-AI/ML (Python, NumPy, Pandas, Scikit-Learn)
-Ethical Hacking (Upcoming 2-Day Workshop at IIT Bombay)
-DSA in C++
+-AI/ML (Python, NumPy, Pandas, Scikit-Learn)
+-Ethical Hacking (Upcoming 2-Day Workshop at IIT Bombay)
+-DSA in C++
 
 💞️ Looking to Collaborate On
 
-AI/ML projects
-Cybersecurity & Networking based tools
-Web development & college hackathon projects
+-AI/ML projects
+-Cybersecurity & Networking based tools
+-Web development & college hackathon projects
 
 📫 How to Reach Me
 
-Email: sankheyash2701@gmail.com
-LinkedIn: https://www.linkedin.com/in/yash-sankhe-773001322/
+-Email: sankheyash2701@gmail.com
 
-😄 Pronouns
+-LinkedIn: https://www.linkedin.com/in/yash-sankhe-773001322/
 
-He/Him
+😄 Pronouns: He/Him
 
 ⚡ Fun Fact
 
