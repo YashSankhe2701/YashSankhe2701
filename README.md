@@ -1,13 +1,12 @@
 - 👋 Hi, I’m @YashSankhe2701
-- 
+
 🚀 Aspiring Software Engineer | AI/ML Enthusiast | Cybersecurity Learner
 
 👀 Interests
-
-Artificial Intelligence & Machine Learning
-Cyber Security & Ethical Hacking
-Data Structures & Algorithms (C++)
-Full-stack & Problem Solving
+-Artificial Intelligence & Machine Learning
+-Cyber Security & Ethical Hacking
+-Data Structures & Algorithms (C++)
+-Full-stack & Problem Solving
 
 🌱 Currently Learning
 
