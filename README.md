@@ -1,33 +1,27 @@
-- 👋 Hi, I’m @YashSankhe2701
+# Hi there, I'm Yash Sankhe! 👋
 
-🚀 Aspiring Software Engineer | AI/ML Enthusiast | Cybersecurity Learner
+### 👨‍💻 Aspiring AI/ML Engineer & Security Enthusiast
 
-👀 Interests
--Artificial Intelligence & Machine Learning
--Cyber Security & Ethical Hacking
--Data Structures & Algorithms (C++)
--Full-stack & Problem Solving
+I am a Computer Science student currently diving deep into the world of Artificial Intelligence while exploring the fundamentals of Cyber Security.
 
-🌱 Currently Learning
+- 🔭 **I’m currently working on:** Building foundational AI/ML models.
+- 🌱 **I’m currently learning:** - **AI/ML:** Python, Data Science libraries.
+  - **Cyber Security:** Ethical Hacking, Packet Tracing, and Network Analysis (Wireshark).
+  - **DSA:** Mastering Data Structures and Algorithms in C++.
+- 👯 **I’m looking to collaborate on:** Open source AI projects or Hackathon teams.
+- 📫 **How to reach me:** [Insert your Email or LinkedIn URL]
 
--AI/ML (Python, NumPy, Pandas, Scikit-Learn)
--Ethical Hacking (Upcoming 2-Day Workshop at IIT Bombay)
--DSA in C++
+---
 
-💞️ Looking to Collaborate On
+### 🛠️ Languages and Tools
 
--AI/ML projects
--Cybersecurity & Networking based tools
--Web development & college hackathon projects
+<p align="left"> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="ML" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
 
-📫 How to Reach Me
-
--Email: sankheyash2701@gmail.com
-
--LinkedIn: https://www.linkedin.com/in/yash-sankhe-773001322/
-
-😄 Pronouns: He/Him
-
-⚡ Fun Fact
-
-I love solving real-world problems with tech and building projects fast 🚀
+### ⚡ Fun fact
+I'm training to be a "Full Stack" problem solver: Building intelligence with AI and breaking defenses with Ethical Hacking.
